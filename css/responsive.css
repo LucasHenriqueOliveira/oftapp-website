@@ -1,0 +1,51 @@
+@media (max-width: 768px){
+  .content {
+	padding: 40% 0 0;
+	}
+	
+	#bs-example-navbar-collapse-1{
+		border: 0px;
+	  	margin-top: 20px;
+	  	margin-bottom: -20px;
+	}
+}
+
+@media (max-width: 603px){
+	#tf-menu.navbar-default {
+		background-color: #FFF;
+		}
+	#tf-works li.pull-right, #tf-works li.pull-left {
+	    margin-top: 10px;
+	    float: none !important;
+	    text-align: center;
+	    display: block;
+	}
+	label{
+	    float: none !important
+	}
+	.pull-left.fnav,
+	.pull-right.fnav {
+	    float: none !important;
+	    text-align: center;
+	}
+	
+	.hover-bg .hover-text {
+	    padding: 12% 10%;
+	}
+	#bs-example-navbar-collapse-1{
+		border: 0px;
+	  	margin-top: 20px;
+	  	margin-bottom: -20px;																																																																																		
+	}
+}
+@media (max-width: 360px){
+	.hover-bg .hover-text {
+	    padding: 22% 10%;
+	}
+	
+	#bs-example-navbar-collapse-1{
+		border: 0px;
+	  	margin-top: 20px;
+	  	margin-bottom: -20px;
+	}
+}
