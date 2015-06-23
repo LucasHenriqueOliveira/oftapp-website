@@ -2,14 +2,14 @@
 
 /**
  * @ngdoc overview
- * @name oftappApp
+ * @name oftappWebApp
  * @description
- * # oftappApp
+ * # oftappWebApp
  *
  * Main module of the application.
  */
 angular
-  .module('oftappApp', [
+  .module('oftappWebApp', [
     'ngAnimate',
     'ngCookies',
     'ngResource',
