@@ -69,7 +69,7 @@ ul, ol{
 }
 /* Navigation */
 #tf-menu {
-	padding: 20px;
+	padding: 8px;
 	transition: all 0.8s;
 }
 #tf-menu.navbar-default {
@@ -130,7 +130,7 @@ font-weight: 900;
 	/*background: -ms-linear-gradient(top,  rgba(0,0,0,0.8) 0%,rgba(0,0,0,0.73) 17%,rgba(0,0,0,0.66) 35%,rgba(0,0,0,0.55) 62%,rgba(0,0,0,0.4) 100%); /* IE10+ */
 	/*background: linear-gradient(to bottom,  rgba(0,0,0,0.8) 0%,rgba(0,0,0,0.73) 17%,rgba(0,0,0,0.66) 35%,rgba(0,0,0,0.55) 62%,rgba(0,0,0,0.4) 100%); /* W3C */
 	/*filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cc000000', endColorstr='#66000000',GradientType=0 ); /* IE6-9 */
-	height: 750px;
+	height: 700px;
 	background-attachment: fixed;
 }
 #tf-home p.lead{
@@ -570,15 +570,19 @@ nav#footer p{
 }
 
 .logo{
-	width: 50px;
-	margin-top: -20px;
+	width: 80%;
+	margin-top: -10px;
+}
+
+#slide{
+	height: 700px;
 }
 
 .home{
   text-align:left;
   position: absolute;
   z-index: 999;
-  top: 30%;
+  top: 18%;
   left: 5%;
 }
 
@@ -633,7 +637,7 @@ ul.stores li {
 
 .device {
   position: absolute;
-	bottom: -246px;
+	bottom: 0px;
   z-index: 999;
-  right: 5%;
+  right: 1%;
 }
