@@ -570,8 +570,8 @@ nav#footer p{
 }
 
 .logo{
-	width: 80%;
-	margin-top: -10px;
+	width: 70%;
+	margin-top: -7px;
 }
 
 #slide{
@@ -616,9 +616,9 @@ ul.stores li {
 
 .slide-text ul li {
 	color: #646263;
-  font-size: 1.1em;
-  font-weight: 500;
+  font-weight: 300;
   margin: 0 0 0.6em;
+	font-family: 'Open Sans', sans-serif;
 }
 
 .slide-text ul li span {
