@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" ng-app="Oftapp">
   <head>
     <!-- Basic Page Needs
     ================================================== -->
@@ -43,7 +43,7 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
   </head>
-  <body>
+  <body ng-controller="OftappController">
     <!-- Navigation
     ==========================================-->
     <nav id="tf-menu" class="navbar navbar-default navbar-fixed-top">
@@ -123,22 +123,22 @@
                             <div class="col-md-6">
                                 <div class="form-group">
                                     <label for="exampleInputEmail1">Email</label>
-                                    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Informe seu email">
+                                    <input type="email" ng-model="email" ng-required="true" class="form-control" id="exampleInputEmail1" placeholder="Informe seu email">
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="form-group">
                                     <label for="exampleInputNome">Nome</label>
-                                    <input type="text" class="form-control" id="exampleInputNome" placeholder="Informe seu nome">
+                                    <input type="text" ng-model="name" ng-required="true" class="form-control" id="exampleInputNome" placeholder="Informe seu nome">
                                 </div>
                             </div>
                         </div>
                         <div class="form-group">
                             <label for="exampleInputEmail1">Mensagem</label>
-                            <textarea class="form-control" rows="3"></textarea>
+                            <textarea class="form-control" ng-model="message" ng-required="true" rows="3"></textarea>
                         </div>
                         
-                        <button type="submit" class="btn tf-btn btn-default">Enviar</button>
+                        <button type="submit" ng-click="submit()" class="btn tf-btn btn-default">Enviar</button>
                     </form>
 
                 </div>
@@ -175,6 +175,11 @@
     <!-- Javascripts
     ================================================== -->
     <script type="text/javascript" src="js/main.js"></script>
+
+    <!-- Angular
+   ================================================== -->
+    <script type="text/javascript" src="js/angular.min.js"></script>
+    <script type="text/javascript" src="js/app.js"></script>
 
   </body>
 </html>
