@@ -641,3 +641,10 @@ ul.stores li {
   z-index: 999;
   right: 1%;
 }
+
+form.ng-submitted input.ng-invalid, form.ng-submitted textarea.ng-invalid {
+	border: 1px solid red !important;
+}
+input.ng-valid, textarea.ng-valid {
+	border: 1px solid green !important;
+}

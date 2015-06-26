@@ -118,27 +118,30 @@
                         <small><em>Precisa entrar em contato com a Oftapp? Possui alguma dúvida? Deseja enviar sugestões ou críticas? Registrar um elogio? Preencha o formulário abaixo e mande sua mensagem. Todos os campos são de preenchimento obrigatório.</em></small>            
                     </div>
 
-                    <form>
+                    <form name="form" novalidate ng-submit="submit()">
                         <div class="row">
                             <div class="col-md-6">
                                 <div class="form-group">
                                     <label for="exampleInputEmail1">Email</label>
-                                    <input type="email" ng-model="email" ng-required="true" class="form-control" id="exampleInputEmail1" placeholder="Informe seu email">
+                                    <input type="email" ng-model="email" required class="form-control" id="exampleInputEmail1" placeholder="Informe seu email">
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="form-group">
                                     <label for="exampleInputNome">Nome</label>
-                                    <input type="text" ng-model="name" ng-required="true" class="form-control" id="exampleInputNome" placeholder="Informe seu nome">
+                                    <input type="text" ng-model="name" required class="form-control" id="exampleInputNome" placeholder="Informe seu nome">
+                                    <div class="error-container" ng-show="form.name.$dirty && form.name.$invalid">
+                                        <small class="error" ng-show="form.name.$error.required">Informe o seu nome!</small>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                         <div class="form-group">
                             <label for="exampleInputEmail1">Mensagem</label>
-                            <textarea class="form-control" ng-model="message" ng-required="true" rows="3"></textarea>
+                            <textarea class="form-control" ng-model="message" required rows="3"></textarea>
                         </div>
                         
-                        <button type="submit" ng-click="submit()" class="btn tf-btn btn-default">Enviar</button>
+                        <button type="submit" class="btn tf-btn btn-default">Enviar</button>
                     </form>
 
                 </div>
