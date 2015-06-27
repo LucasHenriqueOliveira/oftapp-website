@@ -5,9 +5,10 @@
         .module('Oftapp', [])
         .controller('OftappController', OftappController);
 
-    OftappController.$inject = ['$scope'];
+    OftappController.$inject = ['$scope', '$http'];
 
-    function OftappController($scope) {
+    function OftappController($scope, $http) {
+
         $scope.submit = submit;
         $scope.error_email = false;
         $scope.error_name = false;
@@ -48,6 +49,24 @@
                 return false;
             }
 
+            $http({
+                method: 'POST',
+                url: 'http://localhost:8000/api/v1/email',
+                data: {
+                    name: $scope.email,
+                    email: $scope.name,
+                    message: $scope.message
+                }
+            })
+                .then(function(response) {
+
+                    console.log(response);
+
+                }, function(error) {
+
+                    console.log(error);
+
+                });
         }
 
     }
