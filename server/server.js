@@ -8,19 +8,16 @@ var emailRouter = require('./routes/emailRouter');
 var app = express();
 var port = process.env.PORT || 3000;
 
-// view engine setup
-//app.set('views', path.join(__dirname, 'views'));
-//app.set('view engine', 'jade');
 
 // uncomment after placing your favicon in /public
 //app.use(favicon(__dirname + '/public/favicon.ico'));
 app.use(bodyParser.urlencoded({extended: true}));
 app.use(bodyParser.json());
-app.use(express.static(path.join(__dirname, 'public')));
+app.use(express.static(path.join(__dirname, '../public')));
 
 
 //routes
-app.use('/api/v1', routes);
+app.use('/', routes);
 app.use('/api/v1/email', emailRouter);
 
 
