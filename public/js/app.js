@@ -57,16 +57,13 @@
                     email: $scope.name,
                     message: $scope.message
                 }
-            })
-                .then(function(response) {
-
-                    console.log(response);
-
-                }, function(error) {
-
-                    console.log(error);
-
-                });
+            }).
+            success(function(data, status) {
+                console.log(data);
+            }).
+            error(function(data, status) {
+                console.log(data);
+            });
         }
 
     }
