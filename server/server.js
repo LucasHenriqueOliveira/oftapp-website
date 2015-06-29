@@ -6,7 +6,7 @@ var routes = require('./routes/index');
 var emailRouter = require('./routes/emailRouter');
 
 var app = express();
-var port = process.env.PORT || 3000;
+var port = process.env.PORT || 80;
 
 
 // uncomment after placing your favicon in /public
