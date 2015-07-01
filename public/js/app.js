@@ -51,7 +51,7 @@
 
             $http({
                 method: 'POST',
-                url: 'http://localhost/api/v1/email',
+                url: 'http://www.oftapp.com.br/api/v1/email',
                 data: {
                     name: $scope.email,
                     email: $scope.name,
