@@ -140,6 +140,10 @@
                             <textarea class="form-control" ng-model="message" name="message" required rows="3"></textarea>
                             <small class="error" ng-show="error_message">Informe a sua mensagem!</small>
                         </div>
+
+                        <div ng-class="classMail" ng-show="boolMessage" role="alert">
+                            <small>{{messageMail}}</small>
+                        </div>
                         
                         <button type="submit" class="btn tf-btn btn-default">Enviar</button>
                     </form>

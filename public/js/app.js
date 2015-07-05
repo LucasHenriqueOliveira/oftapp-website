@@ -13,6 +13,7 @@
         $scope.error_email = false;
         $scope.error_name = false;
         $scope.error_message = false;
+        $scope.boolMessage = false;
 
         $scope.$watch('email', function (val){
             if($scope.email){
@@ -59,10 +60,14 @@
                 }
             }).
             success(function(data, status) {
-                console.log(data);
+                $scope.boolMessage = true;
+                $scope.messageMail = data.message;
+                $scope.classMail = "alert alert-success";
             }).
             error(function(data, status) {
-                console.log(data);
+                $scope.boolMessage = true;
+                $scope.messageMail = data.message;
+                $scope.classMail = "alert alert-danger";
             });
         }
 

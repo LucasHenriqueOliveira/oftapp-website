@@ -22,10 +22,12 @@ var emailController = function(transporter){
         }
 
         var mailOptions = {
-            from: email,
+            from: 'contato.oftapp@gmail.com',
             to: 'contato.oftapp@gmail.com',
             subject: 'Contato [Oftapp]',
-            text: message + ' ' + name
+            text: '<b>Nome:</b> ' + name + '<br />' +
+                    '<b>Email:</b> ' + email + '<br />' +
+                    '<b>Mensagem:</b> ' + message
         };
 
         transporter.sendMail(mailOptions, function(error, info) {
