@@ -20,8 +20,8 @@ var emailController = function(){
             res.status(400);
             res.json({ message: 'Informe a sua mensagem!' });
         }
-        //res.status(200);
-        //res.json({ message: 'Email enviado com sucesso!' });
+        res.status(200);
+        res.json({ message: 'Email enviado com sucesso!' });
     };
 
     return {

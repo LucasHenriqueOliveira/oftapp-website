@@ -2,7 +2,279 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40d64cd7-934a-4432-bab0-2436c326699e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/xml2js/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/xmlbuilder/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/xml2js/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/xml2js/83.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/AUTHORS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/LICENSE-W3C.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/xml2js/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/NOTICE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/xml2js/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/xmlbuilder/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/UPGRADING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/xmlbuilder/lib/XMLBuilder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/xmlbuilder/lib/XMLFragment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/model/api.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/api_loader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/test/attribute-name.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/autoscaling-2011-01-01.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/autoscaling-2011-01-01.paginators.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/aws.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/examples/big-not-pretty.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/dist-tools/browser-builder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/xml/browser_parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/test/buffer-overrun.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/json/builder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/xml/builder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/xml2js/canon.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/test/case.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/test/cdata-chunked.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/test/cdata-end-split.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/test/cdata-fake-end.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/test/cdata-multiple.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/test/cdata.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/cloudformation-2010-05-15.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/cloudformation-2010-05-15.paginators.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/cloudfront-2015-04-17.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/cloudfront-2015-04-17.paginators.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/cloudfront-2015-04-17.waiters.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/services/cloudfront.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/cloudhsm-2014-05-30.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/cloudsearch-2011-02-01.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/cloudsearch-2011-02-01.paginators.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/cloudsearch-2013-01-01.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/cloudsearch-2013-01-01.paginators.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/cloudsearchdomain-2013-01-01.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/services/cloudsearchdomain.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/cloudtrail-2013-11-01.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/cloudtrail-2013-11-01.paginators.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/codedeploy-2014-10-06.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/cognito-identity-2014-06-30.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/cognito-sync-2014-06-30.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/credentials/cognito_identity_credentials.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/services/cognitoidentity.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/model/collection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/config-2014-11-12.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/config-2014-11-12.paginators.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/scripts/console" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/credentials/credential_provider_chain.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/credentials.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/test/cyrillic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/datapipeline-2012-10-29.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/datapipeline-2012-10-29.paginators.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/directconnect-2012-10-25.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/directconnect-2012-10-25.paginators.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/ds-2015-04-16.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/test/duplicate-attribute.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/dynamodb-2011-12-05.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/dynamodb-2011-12-05.paginators.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/dynamodb-2011-12-05.waiters.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/dynamodb-2012-08-10.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/dynamodb-2012-08-10.paginators.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/dynamodb-2012-08-10.waiters.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/services/dynamodb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/ec2-2015-04-15.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/ec2-2015-04-15.paginators.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/ec2-2015-04-15.waiters.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/services/ec2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/credentials/ec2_metadata_credentials.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/ecs-2014-11-13.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/ecs-2014-11-13.paginators.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/efs-2015-02-01.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/elasticache-2015-02-02.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/elasticache-2015-02-02.paginators.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/elasticbeanstalk-2010-12-01.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/elasticbeanstalk-2010-12-01.paginators.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/elasticloadbalancing-2012-06-01.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/elasticloadbalancing-2012-06-01.paginators.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/elasticmapreduce-2009-03-31.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/elasticmapreduce-2009-03-31.paginators.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/elastictranscoder-2012-09-25.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/elastictranscoder-2012-09-25.paginators.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/elastictranscoder-2012-09-25.waiters.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/email-2010-12-01.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/email-2010-12-01.paginators.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/email-2010-12-01.waiters.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/test/entities.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/test/entity-mega.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/credentials/environment_credentials.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/event_listeners.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/examples/example.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/credentials/file_system_credentials.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/examples/get-products.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/glacier-2012-06-01.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/glacier-2012-06-01.paginators.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/glacier-2012-06-01.waiters.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/services/glacier.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/examples/hello-world.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/http.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/iam-2010-05-08.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/iam-2010-05-08.paginators.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/importexport-2010-06-01.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/importexport-2010-06-01.paginators.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/xmlbuilder/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/test/issue-23.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/test/issue-30.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/test/issue-35.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/test/issue-47.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/test/issue-49.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/test/issue-84.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/protocol/json.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/kinesis-2013-12-02.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/kinesis-2013-12-02.paginators.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/kms-2014-11-01.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/lambda-2014-11-11.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/lambda-2014-11-11.paginators.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/lambda-2015-03-31.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/lambda-2015-03-31.paginators.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/logs-2014-03-28.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/logs-2014-03-28.paginators.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/machinelearning-2014-12-12.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/machinelearning-2014-12-12.paginators.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/services/machinelearning.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/s3/managed_upload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/metadata_service.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/mobileanalytics-2014-06-05.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/monitoring-2010-08-01.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/monitoring-2010-08-01.paginators.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/http/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/xml/node_parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/examples/not-pretty.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/model/operation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/opsworks-2013-02-18.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/opsworks-2013-02-18.paginators.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/xml2js/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/xmlbuilder/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/model/paginator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/param_validator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/test/parser-position.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/json/parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/signers/presign.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/examples/pretty-print.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/protocol/query.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/query/query_param_serializer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/rds-2013-01-10.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/rds-2013-01-10.paginators.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/rds-2013-02-12.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/rds-2013-02-12.paginators.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/rds-2013-09-09.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/rds-2013-09-09.paginators.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/rds-2013-09-09.waiters.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/rds-2014-10-31.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/rds-2014-10-31.paginators.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/rds-2014-10-31.waiters.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/redshift-2012-12-01.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/redshift-2012-12-01.paginators.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/redshift-2012-12-01.waiters.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/region_config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/region_config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/request.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/signers/request_signer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/resource_waiter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/model/resource_waiter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/response.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/protocol/rest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/protocol/rest_json.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/protocol/rest_xml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/route53-2013-04-01.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/route53-2013-04-01.paginators.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/services/route53.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/route53domains-2014-05-15.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/route53domains-2014-05-15.paginators.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/s3-2006-03-01.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/s3-2006-03-01.paginators.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/s3-2006-03-01.waiters.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/services/s3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/signers/s3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/credentials/saml_credentials.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/lib/sax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/test/script-close-better.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/test/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/sdb-2009-04-15.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/sdb-2009-04-15.paginators.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/test/self-closing-child-strict.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/test/self-closing-child.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/test/self-closing-tag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/sequential_executor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/dist-tools/service-collector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/service.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/services.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/src/ses-transport.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/model/shape.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/credentials/shared_ini_file_credentials.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/examples/shopping.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/sns-2010-03-31.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/sns-2010-03-31.paginators.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/sqs-2012-11-05.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/sqs-2012-11-05.paginators.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/services/sqs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/ssm-2014-11-06.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/state_machine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/storagegateway-2013-06-30.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/storagegateway-2013-06-30.paginators.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/test/stray-ending.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/examples/strict.dtd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/sts-2011-06-15.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/services/sts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/support-2013-04-15.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/support-2013-04-15.paginators.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/swf-2012-01-25.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/swf-2012-01-25.paginators.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/services/swf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/credentials/temporary_credentials.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/examples/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/examples/test.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/testem.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/xml2js/text.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/xml2js/text.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/test/trailing-attribute-no-value.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/test/trailing-non-whitespace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/dist-tools/transform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/scripts/translate-api" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/scripts/lib/translator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/test/unclosed-root.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/test/unquoted.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/signers/v2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/signers/v3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/signers/v3https.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/signers/v4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/credentials/web_identity_credentials.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/apis/workspaces-2015-04-08.min.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/lib/http/xhr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/xml2js/lib/xml2js.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/test/xmlns-issue-41.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/test/xmlns-rebinding.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/test/xmlns-strict.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/test/xmlns-unbound.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/test/xmlns-xml-default-ns.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/test/xmlns-xml-default-prefix-attribute.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/test/xmlns-xml-default-prefix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/nodemailer-ses-transport/node_modules/aws-sdk/node_modules/sax/test/xmlns-xml-default-redefine.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/controllers/emailController.js" afterPath="$PROJECT_DIR$/server/controllers/emailController.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="oftapp_web.iws" />
@@ -38,16 +310,26 @@
         <entry file="file://$PROJECT_DIR$/server/controllers/emailController.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="emailRouter.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/routes/emailRouter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="1" column="39" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.892562">
+            <state vertical-scroll-proportion="-22.5">
               <caret line="57" column="19" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
               <folding />
             </state>
@@ -58,16 +340,16 @@
         <entry file="file://$PROJECT_DIR$/public/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="53" column="46" selection-start-line="53" selection-start-column="46" selection-end-line="53" selection-end-column="46" />
+              <caret line="53" column="22" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="59" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/server/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.19077902">
               <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
               <folding />
             </state>
@@ -101,11 +383,11 @@
         <option value="$PROJECT_DIR$/server/gulp.js" />
         <option value="$PROJECT_DIR$/server/routes/index.js" />
         <option value="$PROJECT_DIR$/server/routes/emailRouter.js" />
-        <option value="$PROJECT_DIR$/server/controllers/emailController.js" />
-        <option value="$PROJECT_DIR$/server/gulpfile.js" />
-        <option value="$PROJECT_DIR$/server/server.js" />
-        <option value="$PROJECT_DIR$/public/js/app.js" />
         <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/public/js/app.js" />
+        <option value="$PROJECT_DIR$/server/controllers/emailController.js" />
+        <option value="$PROJECT_DIR$/server/server.js" />
+        <option value="$PROJECT_DIR$/server/gulpfile.js" />
       </list>
     </option>
   </component>
@@ -220,6 +502,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oftapp_web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oftapp_web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -506,6 +806,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="1" column="39" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -516,13 +817,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/routes/emailRouter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.023847377">
-          <caret line="1" column="39" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server/routes/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.023847377">
@@ -530,10 +824,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/gulpfile.js">
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-22.5">
+          <caret line="57" column="19" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <caret line="53" column="22" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/routes/emailRouter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="39" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/controllers/emailController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
           <folding />
         </state>
       </provider>
@@ -546,26 +864,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/app.js">
+    <entry file="file://$PROJECT_DIR$/server/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="53" column="46" selection-start-line="53" selection-start-column="46" selection-end-line="53" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/controllers/emailController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.892562">
-          <caret line="57" column="19" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.19077902">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
           <folding />
         </state>
       </provider>
