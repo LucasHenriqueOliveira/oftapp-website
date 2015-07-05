@@ -1,4 +1,4 @@
-var emailController = function(){
+var emailController = function(transporter){
 
     // send email
     var post = function(req, res){
@@ -20,8 +20,23 @@ var emailController = function(){
             res.status(400);
             res.json({ message: 'Informe a sua mensagem!' });
         }
-        res.status(200);
-        res.json({ message: 'Email enviado com sucesso!' });
+
+        var mailOptions = {
+            from: email,
+            to: 'contato.oftapp@gmail.com',
+            subject: 'Contato [Oftapp]',
+            text: message + ' ' + name
+        };
+
+        transporter.sendMail(mailOptions, function(error, info) {
+            if(error) {
+                res.status(500);
+                res.json({ message: 'Ocorreu um erro no envio do email!' });
+            } else {
+                res.status(200);
+                res.json({ message: 'Email enviado com sucesso!' });
+            }
+        });
     };
 
     return {

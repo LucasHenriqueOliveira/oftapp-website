@@ -6,11 +6,10 @@ var routes = require('./routes/index');
 var emailRouter = require('./routes/emailRouter');
 
 var app = express();
-var port = process.env.PORT || 80;
+var port = process.env.PORT || 8000;
 
 
-// uncomment after placing your favicon in /public
-//app.use(favicon(__dirname + '/public/favicon.ico'));
+app.use(favicon(__dirname + '/public/img/favicon.ico'));
 app.use(bodyParser.urlencoded({extended: true}));
 app.use(bodyParser.json());
 app.use(express.static(path.join(__dirname, '../public')));
