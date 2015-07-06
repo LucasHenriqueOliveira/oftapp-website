@@ -25,7 +25,7 @@ var emailController = function(transporter){
             from: 'contato.oftapp@gmail.com',
             to: 'contato.oftapp@gmail.com',
             subject: 'Contato [Oftapp]',
-            text: '<b>Nome:</b> ' + name + '<br />' +
+            html: '<b>Nome:</b> ' + name + '<br />' +
                     '<b>Email:</b> ' + email + '<br />' +
                     '<b>Mensagem:</b> ' + message
         };

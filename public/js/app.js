@@ -63,6 +63,9 @@
                 $scope.boolMessage = true;
                 $scope.messageMail = data.message;
                 $scope.classMail = "alert alert-success";
+                $scope.email = "";
+                $scope.name = "";
+                $scope.message = "";
             }).
             error(function(data, status) {
                 $scope.boolMessage = true;
