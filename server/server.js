@@ -9,7 +9,6 @@ var app = express();
 var port = process.env.PORT || 80;
 
 
-//app.use(favicon(__dirname + '/public/img/favicon.ico'));
 app.use(bodyParser.urlencoded({extended: true}));
 app.use(bodyParser.json());
 app.use(express.static(path.join(__dirname, '../public')));
@@ -33,27 +32,10 @@ app.use(function(req, res, next) {
 
 // error handlers
 
-// development error handler
-// will print stacktrace
-if (app.get('env') === 'development') {
-    app.use(function(err, req, res, next){
-        res.status(err.status || 500);
-        res.send({
-            message: err.message,
-            error: err
-        });
-        return;
-    });
-}
-
 // production error handler
-// no stacktraces leaked to user
 app.use(function(err, req, res, next){
     res.status(err.status || 500);
-    res.send({
-        message: err.message,
-        error: {}
-    });
+    res.sendFile(__dirname + '../public/404.html');
     return;
 });
 
