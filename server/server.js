@@ -35,7 +35,7 @@ app.use(function(req, res, next) {
 // production error handler
 app.use(function(err, req, res, next){
     res.status(err.status || 500);
-    res.sendFile(__dirname + '../public/404.html');
+    res.sendFile(__dirname + '/../public/404.html');
     return;
 });
 
